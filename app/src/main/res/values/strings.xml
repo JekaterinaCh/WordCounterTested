@@ -1,14 +1,10 @@
 <resources>
-    <string name="app_name">TextCounterSample</string>
-    <string name="btn_calculate_caption">Calculate</string>
-    <string-array name="planets_array">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
-    </string-array>
+    <string name="app_name">WordCounter</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="edit_text_hint">Type a text…</string>
+    <string name="words">Words</string>
+    <string name="chars">Chars</string>
+    <string name="words_count">Words count: </string>
+    <string name="chars_count">Chars count:</string>
+    <string name="empty">Input is empty!</string>
 </resources>
